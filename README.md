@@ -5,6 +5,7 @@ In 2018, The KQ conducted an audit that highlighted the KQ area as a leading are
 The UK life sciences field is evidently a major contributor to the economy. The COVID-19 pandemic has highlighted the high quality of innovation and research that occurs in industry and academia. This report focuses on the key role London plays, financing and capital-raising, talent, data and the NHS, all within the context of the life sciences. This report also discusses UK, EU and US clusters, highlighting the contrasts in each regions’ visions. Lastly, the report details the methodology of creating a database mapping the life sciences ecosystem in the KQ region as well as provides an overview of what is currently present in the area.
 
 Summary of Recommendations
+
 (1) The KQ should focus on networking opportunities and community building to develop a flourishing life-sciences ecosystem that will facilitate knowledge transfer between industry and academia.
 
 (2) Educational partnerships within the KQ can aid in achieving the UK Government’s Vision by bridging the data science gap, amongst other benefits.
